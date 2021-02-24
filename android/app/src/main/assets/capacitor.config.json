@@ -1,0 +1,16 @@
+{
+  "appId": "com.testing.ahahaha",
+  "appName": "android-redirect-testing",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "url": "http://10.0.2.2:3000",
+    "allowNavigation": ["10.0.2.2"]
+  }
+}

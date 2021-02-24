@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">android-redirect-testing</string>
+    <string name="title_activity_main">android-redirect-testing</string>
+    <string name="package_name">com.testing.ahahaha</string>
+    <string name="custom_url_scheme">com.testing.ahahaha</string>
+</resources>
