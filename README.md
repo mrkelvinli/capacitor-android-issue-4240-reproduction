@@ -12,8 +12,8 @@ When you open the Android app, clicking the `redirect to` link will show you a p
 
 #### Before redirect
 
-![](https://i.ibb.co/Czysxjs/Screen-Shot-2021-02-24-at-4-31-21-pm.png)
+<img src="https://i.ibb.co/Czysxjs/Screen-Shot-2021-02-24-at-4-31-21-pm.png" width="300px" >
 
 #### After redirection
 
-![](https://i.ibb.co/rxCQdWv/Screen-Shot-2021-02-24-at-4-31-30-pm.png)
+<img src="https://i.ibb.co/rxCQdWv/Screen-Shot-2021-02-24-at-4-31-30-pm.png" width="300px" >
