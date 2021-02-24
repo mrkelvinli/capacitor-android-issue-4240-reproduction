@@ -1,16 +1,9 @@
-## Created with Capacitor Create
+This is a sample Capacitor Android app to reproduce the issue in https://github.com/ionic-team/capacitor/issues/4240
 
-This app was created using the `npx @capacitor/cli create` command, and comes with a very
-minimal shell for building an app.
+To launch the Android app, you must have Android studio installed.
 
-Note: unless you know what you're doing, we don't recommend using the `create` way of building an app. Instead, you'll
-likely want to create an app using your framework's tooling (such as `create-react-app`), and then *add* capacitor
-to *that* project (using `npx @capacitor/cli init`).
+After cloning the repo, please run `yarn install` or `npm install` to install all dependencies.
 
-### Running this example
+Then, you can start the local server by: `yarn start:server`. You should be able to access the page via `http://localhost:3000`.
 
-To run the provided example, can use serve command:
-
-```bash
-npx cap serve
-```
+While keeping the local web server running in the background, you can start the Capacitor Android app in another terminal via: `yarn start:android`.
